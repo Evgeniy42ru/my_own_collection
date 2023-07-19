@@ -1,0 +1,6 @@
+---
+- name: My own role
+  hosts: localhost
+  roles:
+    - my_own_role
+  
